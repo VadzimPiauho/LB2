@@ -3,3 +3,4 @@ E:\programming training\GitHub\LB2\case 3\bin\Debug\case 3.exe
 E:\programming training\GitHub\LB2\case 3\bin\Debug\case 3.pdb
 E:\programming training\GitHub\LB2\case 3\obj\Debug\case 3.exe
 E:\programming training\GitHub\LB2\case 3\obj\Debug\case 3.pdb
+E:\programming training\GitHub\LB2\case 3\obj\Debug\case 3.csprojResolveAssemblyReference.cache

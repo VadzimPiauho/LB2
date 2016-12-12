@@ -18,4 +18,3 @@ E:\programming training\GitHub\LB2\lab2\obj\Debug\lab2.exe
 E:\programming training\GitHub\LB2\lab2\obj\Debug\lab2.pdb
 E:\programming training\GitHub\LB2\lab2\bin\Debug\lab2.exe
 E:\programming training\GitHub\LB2\lab2\bin\Debug\lab2.pdb
-E:\programming training\GitHub\LB2\lab2\obj\Debug\case 1.csprojResolveAssemblyReference.cache
