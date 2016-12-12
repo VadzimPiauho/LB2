@@ -10,6 +10,20 @@ namespace case_3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Введите строку для проверки явkяется ли она палиндромом");
+            string str = Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine(str);
+            string output = new string(str.ToCharArray().Reverse().ToArray());
+            Console.WriteLine(output);
+            if (str.CompareTo(output) == 0)
+            {
+                Console.WriteLine("Строка ЯВЛЯЕТСЯ палиндромом");
+            }
+            else
+            {
+                Console.WriteLine("Строка НЕ ЯВЛЯЕТСЯ палиндромом");
+            }
         }
     }
 }
