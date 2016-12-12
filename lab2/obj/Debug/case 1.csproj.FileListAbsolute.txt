@@ -1,0 +1,15 @@
+F:\C#\lb2\lab2\lab2\bin\Debug\lab2.exe.config
+F:\C#\lb2\lab2\lab2\bin\Debug\lab2.exe
+F:\C#\lb2\lab2\lab2\bin\Debug\lab2.pdb
+F:\C#\lb2\lab2\lab2\obj\Debug\case 1.csprojResolveAssemblyReference.cache
+F:\C#\lb2\lab2\lab2\obj\Debug\lab2.exe
+F:\C#\lb2\lab2\lab2\obj\Debug\lab2.pdb
+D:\C#\lb2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\C#\lb2\lab2\lab2\obj\Debug\lab2.exe
+D:\C#\lb2\lab2\lab2\obj\Debug\lab2.pdb
+D:\C#\lb2\lab2\lab2\bin\Debug\lab2.exe
+D:\C#\lb2\lab2\lab2\bin\Debug\lab2.pdb
+D:\C#\lb2\lab2\lab2\obj\Debug\case 1.csprojResolveAssemblyReference.cache
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\lab2\bin\Debug\lab2.exe.config
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\lab2\obj\Debug\lab2.exe
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\lab2\obj\Debug\lab2.pdb
