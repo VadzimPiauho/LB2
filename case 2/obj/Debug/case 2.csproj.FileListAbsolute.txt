@@ -1,0 +1,6 @@
+E:\programming training\GitHub\LB2\case 2\bin\Debug\case 2.exe.config
+E:\programming training\GitHub\LB2\case 2\bin\Debug\case 2.exe
+E:\programming training\GitHub\LB2\case 2\bin\Debug\case 2.pdb
+E:\programming training\GitHub\LB2\case 2\obj\Debug\case 2.csprojResolveAssemblyReference.cache
+E:\programming training\GitHub\LB2\case 2\obj\Debug\case 2.exe
+E:\programming training\GitHub\LB2\case 2\obj\Debug\case 2.pdb
