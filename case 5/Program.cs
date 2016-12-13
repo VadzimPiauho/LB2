@@ -13,14 +13,12 @@ namespace case_5
             int[,] B = new int[5, 5];
             int sumB = 0, max=B[0,0],min = B[0, 0];
             int ni = 0, mj = 0, ki = 0, lj = 0;
+            bool count = false; 
             Random rand = new Random();
             try
             {
-                //double x = Math.Round(rand.NextDouble(),2)+rand.Next(100);
                 Console.WriteLine("Заполнение массива А");
-
                 Console.WriteLine("Массив B");
-
                 for (int i = 0; i < B.GetLength(0); i++)
                 {
                     for (int j = 0; j < B.GetLength(1); j++)
@@ -38,36 +36,41 @@ namespace case_5
                             ki = i;
                             lj = j;
                         }
-                        Console.Write($"{B[i, j]}" + "\t");
+                        Console.Write($"{B[i, j]}\t");
                     }
                     Console.WriteLine();
                 }
-                
-                //for (int i = 0; i < B.GetLength(0); i++)
-                //{
-                //    for (int j = 0; j < B.GetLength(1); j++)
-                //    {
-                        
-                //        if (B[i, j]==max)
-                //        {
-                //            ni = i;
-                //            mj = j;
-                //        }
-                //        if (B[i, j] == min)
-                //        {
-                //            ki = i;
-                //            lj = j;
-                //        }
-                //    }
-                //    Console.WriteLine();
-                //}
+
+                    for (int i = 0; i < B.GetLength(0); i++)
+                    {
+                        for (int j = 0; j < B.GetLength(1); j++)
+                        {
+                            if ((i==ni&&j==mj)||(i == ki && j == lj))
+                            {
+                                if (count)
+                                {
+                                count = false;
+                                continue;
+                                }
+                                else
+                                {
+                                count = true;
+                                continue;
+                                }
+                            }
+                            if (count)
+                            {
+                            sumB += B[i, j];
+                            }
+                        }
+                    }
+              
                 Console.WriteLine();
-               
 
                 Console.WriteLine("Максимальный элемент массива B = " + max);
                 Console.WriteLine("Минимальный элемент массива B = " + min);
 
-                Console.WriteLine($"Максимальный элемент {B.Cast<int>().Max()}  находится в массиве на {ni} {mj} позиции");
+                Console.WriteLine($"Максимальный элемент {B.Cast<int>().Max()} находится в массиве на {ni} {mj} позиции");
                 Console.WriteLine($"Максимальный элемент {B.Cast<int>().Min()} находится в массиве на {ki} {lj} позиции");
 
                 Console.WriteLine("Cуммa элементов массива, расположенных между минимальным и максимальным элементами = " + sumB);
