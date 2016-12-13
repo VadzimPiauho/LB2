@@ -70,8 +70,8 @@ namespace case_5
                 Console.WriteLine("Максимальный элемент массива B = " + max);
                 Console.WriteLine("Минимальный элемент массива B = " + min);
 
-                Console.WriteLine($"Максимальный элемент {B.Cast<int>().Max()} находится в массиве на {ni} {mj} позиции");
-                Console.WriteLine($"Максимальный элемент {B.Cast<int>().Min()} находится в массиве на {ki} {lj} позиции");
+                Console.WriteLine($"Максимальный элемент {B.Cast<int>().Max()} находится в массиве строка {ni+1} столбец {mj + 1} позиции");
+                Console.WriteLine($"Минимальный элемент {B.Cast<int>().Min()} находится в массиве строка {ki + 1} столбец {lj + 1} позиции");
 
                 Console.WriteLine("Cуммa элементов массива, расположенных между минимальным и максимальным элементами = " + sumB);
             }
