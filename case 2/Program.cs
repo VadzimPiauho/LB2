@@ -18,8 +18,8 @@ namespace case_2
                 var valueN = Convert.ToInt32(Console.ReadLine());
                 Random rand = new Random();
                 int count = 0; 
-                 int[] A = new int[valueM];
-                 int[] B = new int[valueN];   
+                int[] A = new int[valueM];
+                int[] B = new int[valueN];   
 
             for (int i = 0; i < A.Length; i++)
             {

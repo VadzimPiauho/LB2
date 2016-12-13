@@ -1,0 +1,6 @@
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 5\bin\Debug\case 5.exe.config
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 5\bin\Debug\case 5.exe
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 5\bin\Debug\case 5.pdb
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 5\obj\Debug\case 5.exe
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 5\obj\Debug\case 5.pdb
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 5\obj\Debug\case 5.csprojResolveAssemblyReference.cache

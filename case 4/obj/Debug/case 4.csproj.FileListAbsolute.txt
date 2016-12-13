@@ -6,3 +6,6 @@ E:\programming training\GitHub\LB2\case 4\obj\Debug\case 4.pdb
 C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 4\bin\Debug\case 4.exe.config
 C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 4\obj\Debug\case 4.exe
 C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 4\obj\Debug\case 4.pdb
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 4\bin\Debug\case 4.exe
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 4\bin\Debug\case 4.pdb
+C:\Users\Vadzim_Pliauho\Desktop\NewRepo\LB2\case 4\obj\Debug\case 4.csprojResolveAssemblyReference.cache
